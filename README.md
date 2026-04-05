@@ -9,6 +9,8 @@
 
 ---
 
+OnShape File Url : https://cad.onshape.com/documents/c0296af00940af9ec757ed3a/w/ea54098f760df89b4da7d9b6/e/096139ce7c8e0075c12c0ce2
+
 # Overview :
 
 A custom-designed mouse case for bambulab kit in Blueprint. It includes a simple and chic design as well as It's easy to make and to mount.
